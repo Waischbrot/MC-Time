@@ -3,7 +3,7 @@ Was ich alles schon so in Minecraft gemacht hab (um sich iwann zurück zu erinne
 
 <p>
   <b>
-    ❄️ Liste ist definitiv nicht vollständig (aber ganz grob Chronologisch)<br/>
+    ❄️ Liste ist definitiv nicht vollständig (und auch nicht chronologisch xD)<br/>
   </b>
   <br/>
   • Lobbysystem<br/>
