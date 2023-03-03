@@ -40,11 +40,11 @@ Was ich alles schon so in Minecraft gemacht hab (um sich iwann zurück zu erinne
   • Sellsystem für KypeMC (15 Minuten Challenge xD)<br/>
   • Moderationsplugin<br/>
   • Aufsteigende Exp-Hologramme mit der Protocollib<br/>
-  • MSG Plugin - Bungeeweit
-  • Playtime System mit eigenen Ideen
-  • Equipment Slots im Inventar
-  • CraftAttack Grundsystem
-  • Regeln & DSGVO Akzeptieren mit Tutorial danach
-  • Mobcleaner / Untracker für Performance
-  • Socials Plugin
+  • MSG Plugin - Bungeeweit<br/>
+  • Playtime System mit eigenen Ideen<br/>
+  • Equipment Slots im Inventar<br/>
+  • CraftAttack Grundsystem<br/>
+  • Regeln & DSGVO Akzeptieren mit Tutorial danach<br/>
+  • Mobcleaner / Untracker für Performance<br/>
+  • Socials Plugin<br/>
 </p>
